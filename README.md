@@ -1,4 +1,5 @@
 # HLDM:S Plugins
+A set of sourcemod plugins for Half Life Deathmatch: Source
 
 ## List of plugins
 - RndPlayerModel: Chooses a random playermodel on spawn
